@@ -27,7 +27,7 @@ https://www.42network.org/
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli6vkt6v002508l1qxqc2fdg/project/3097239" alt="grobert's 42 Philosophers Score" /></a>
+├─◈ 
 ├─◈ 
 ├─◈ 
 ├─◈ 
