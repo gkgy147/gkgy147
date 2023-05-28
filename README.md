@@ -21,10 +21,10 @@ https://www.42network.org/
 
 - ⚡ Interested in **low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.**
 
-<h3 align="left">Connect with me:</h3>
+/*<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<pre>
+<pre>*/
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
 ├─◈ 
