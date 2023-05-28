@@ -1,6 +1,6 @@
 <h1 align="center">Who AM I</h1>
-<h3 align="center">George Robert
-  Software Engineer Student at 42Bangkok,KMITL.</h3>
+<h3 align="center">George Robert</h3>
+<h3 align="center"> (Software Engineer Student at 42Bangkok,KMITL.) </h3>
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/grobert?1337Badge=off&UM6P=off" alt="grobert's 42 stats" /></a>
