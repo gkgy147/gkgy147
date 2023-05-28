@@ -1,4 +1,4 @@
-<h1 align="center">Who AM I, George Robert</h1>
+<h1 align="center">Who AM I</h1>
 <h3 align="center">Software Engineer Student at 42Bangkok,KMITL.</h3>
 
 <p align="center">
