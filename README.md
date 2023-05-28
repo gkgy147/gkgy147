@@ -1,5 +1,7 @@
 <h1 align="center">Who AM I, George Robert</h1>
 <h3 align="center">Software Engineer Student at 42Bangkok,KMITL.</h3>
+<img align="right" alt="Coding" width="400" src=["https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"](https://badge.mediaplus.ma/greenbinary/grobert?1337Badge=off&UM6P=off)>
+
 
 - 🔭 I’m currently working on **MINISHELL(Creating a simple shell).**
 
