@@ -3,7 +3,7 @@
 <h3 align="center"> (Software Engineer Student at 42Bangkok,KMITL.) </h3>
 
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/grobert?1337Badge=off&UM6P=off" alt="grobert's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/grobert?1337Badge=off&UM6P=off" alt="grobert's 42 stats" /></a>
 </p>
 https://www.42network.org/
 
