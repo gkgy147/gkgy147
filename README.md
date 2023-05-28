@@ -1,7 +1,9 @@
 <h1 align="center">Who AM I, George Robert</h1>
 <h3 align="center">Software Engineer Student at 42Bangkok,KMITL.</h3>
-<img align="right" alt="Coding" width="400" src=["https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"](https://badge.mediaplus.ma/greenbinary/grobert?1337Badge=off&UM6P=off)>
 
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/grobert?1337Badge=off&UM6P=off" alt="grobert's 42 stats" /></a>
+</p>
 
 - 🔭 I’m currently working on **MINISHELL(Creating a simple shell).**
 
