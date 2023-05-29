@@ -10,8 +10,9 @@
 
 <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli6vkt6v002508l1qxqc2fdg/stats?cursusId=21&coalitionId=209" alt="grobert's 42 stats" /></a>
+<h3 align="center"> https://www.42network.org/  </h3>
 </p>
-https://www.42network.org/
+
 - You really understand something until you program it.
 
 - 🔭 I’m currently working on **MINISHELL(Creating a simple shell).**
