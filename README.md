@@ -18,6 +18,7 @@
 - 🔭 I’m currently working on **MINISHELL(Creating a simple shell).**
 
 - 🌱 I’m currently learning **Devops.**
+- Currently having an affair with kubernetes and openstack.
 
 - 📫 How to reach me **georgerobert147@gmail.com**
 
