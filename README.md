@@ -18,7 +18,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.linkedin.com/in/georgerobert">LinkedIn</a>
+├─◈ <a href="https://www.linkedin.com/in/george-robert-02a9601b0/">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 ┌──┤ PERSONEL PROJECTS ├───────▰▰▰
