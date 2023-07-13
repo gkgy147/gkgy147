@@ -12,18 +12,29 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli6vkt6v002508l1qxqc2fdg/stats?cursusId=21&coalitionId=209" alt="grobert's 42 stats" /></a>
 <h3 align="center"> https://www.42network.org/  </h3>
 </p>
-
-- You really understand something until you program it.
-
-- 🔭 I’m currently working on **MINISHELL(Creating a simple shell).**
-
-- 🌱 I’m currently learning **Devops.**
-- Currently having an affair with kubernetes and openstack.
-
-- 📫 How to reach me **georgerobert147@gmail.com**
-
-- ⚡ Interested in **low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.**
 <pre>
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Software Engineer Student at 42 Bangkok.
+├─▣ From South India.
+├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
+├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://www.linkedin.com/in/georgerobert">LinkedIn</a>
+│
+└───────────────────────────────▰▰▰
+┌──┤ PERSONEL PROJECTS ├───────▰▰▰
+│
+├─◈ 
+├─◈ 
+├─◈ 
+│
+└───────────────────────────────▰▰▰
+
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
 ├─◈ 
