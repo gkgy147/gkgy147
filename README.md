@@ -1,10 +1,4 @@
-</p>
-<p align="center">  
-<img src = "https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
-</p>
-
-
-<h1 align="center">Who AM I</h1>
+<h1 align="center">This is Me </h1>
 <h3 align="center">George Robert</h3>
 <h3 align="center"> (Software Engineer Student at 42Bangkok,KMITL.) </h3>
 
