@@ -23,7 +23,7 @@
 └───────────────────────────────▰▰▰
 ┌──┤ PERSONEL PROJECTS ├───────▰▰▰
 │
-├─◈ 
+├─◈  <a href="https://github.com/gkgy147/Gitlab_ci-cd">GITLAB CI-CD</a>
 ├─◈ 
 ├─◈ 
 │
@@ -31,8 +31,8 @@
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ 
-├─◈ 
+├─◈ <a href="https://github.com/gkgy147/Minishell42"> MINISHELL-42</a>
+├─◈ <a href="https://github.com/gkgy147/Push_Swap"> PUSH-SWAP</a>
 ├─◈ 
 ├─◈ 
 ├─◈ 
