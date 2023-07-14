@@ -11,8 +11,8 @@
 │
 ├─▣ Software Engineer Student at 42 Bangkok.
 ├─▣ From South India.
-├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
+├─▣ I derive immense satisfaction from delving into intricate challenges and striving to discover the most streamlined and effective resolution.
+├─▣ Fascinated by the realms of low-level programming, cybersecurity, DevOps, networking, cloud computing, and artificial intelligence, these domains captivate my curiosity.
 │
 └───────────────────────────────▰▰▰
 
