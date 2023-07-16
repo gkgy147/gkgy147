@@ -36,9 +36,8 @@
 ├─◈ <a href="https://github.com/gkgy147/minitalk-42"> MINITALK</a>
 ├─◈ <a href="https://github.com/gkgy147/ft_printf"> FT_PRINTF</a>
 ├─◈ <a href="https://github.com/gkgy147/Libft" > LIBFT</a>
-├─◈ 
-├─◈ 
-├─◈ 
+├─◈ <a href="https://github.com/gkgy147/So_long42" > SO_lONG</a>
+├─◈ <a href="https://github.com/gkgy147/Philosophers42" > PHILOSOPHERS</a>
 ├─◈ 
 ├─◈
 ├─◈
