@@ -1,6 +1,6 @@
 <h1 align="center">This is Me </h1>
 <h3 align="center">George Robert</h3>
-<h3 align="center"> (Software Engineer Student at 42Bangkok,KMITL.) </h3>
+<h3 align="center"> (Software Engineering Student at 42Bangkok,KMITL.) </h3>
 
 <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli6vkt6v002508l1qxqc2fdg/stats?cursusId=21&coalitionId=209" alt="grobert's 42 stats" /></a>
